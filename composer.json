@@ -1,5 +1,8 @@
 {
     "name": "boodaweb/ez-twitter-bot",
-    "description":"eZ publish twitter bot",
-    
+    "description": "eZ publish twitter bot",
+    "autoload": {
+        "psr-0": {"BWeZTwitterBotBundle": ""}
+    }
+
 }

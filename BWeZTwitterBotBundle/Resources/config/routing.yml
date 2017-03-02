@@ -1,0 +1,5 @@
+twitter_bot:
+    path: /twitterbot
+    defaults:
+        _controller: BWeZTwitterBotBundle:TwitterBot:run
+    methods: [GET]
